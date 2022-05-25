@@ -8,7 +8,6 @@
     box-sizing: border-box;
     outline: none; border:none;
     text-decoration: none;
-    text-transform: capitalize;
     transition: .2s linear;
 }
 
@@ -43,14 +42,12 @@ section{
 .heading{
     text-align: center;
     color:#fff;
-    text-transform: uppercase;
     padding-bottom: 3.5rem;
     font-size: 4rem;
 }
 
 .heading span{
     color:#d3ad7f;
-    text-transform: uppercase;
 }
 
 .btn{
@@ -136,7 +133,6 @@ section{
     font-size: 1.6rem;
     color:#13131a;
     padding:1rem;
-    text-transform: none;
 }
 
 .header .search-form label{
@@ -218,7 +214,6 @@ section{
 
 .home .content h3{
     font-size: 6rem;
-    text-transform: uppercase;
     color:#fff;
 }
 
@@ -419,7 +414,6 @@ section{
 }
 
 .contact .row form h3{
-    text-transform: uppercase;
     font-size: 3.5rem;
     color:#fff;
 }
@@ -444,7 +438,6 @@ section{
     padding:2rem;
     font-size: 1.7rem;
     color:#fff;
-    text-transform: none;
     background:none;
 }
 
@@ -617,7 +610,7 @@ section{
     }
 
     .home{
-        background-position: left;
+        background-position: bottom;
         justify-content: center;
         text-align: center;
         background-size: 100%;
