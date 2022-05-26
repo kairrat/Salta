@@ -79,9 +79,9 @@ section{
 .header .logo img{
     display: flex;
     margin-top: 10px;
-    align-items: center;
-    width: 100px;
-    height: 100px;
+    align-items: center    ;
+    width: 60px;
+    height: 60px;
 }
 
 .header .navbar a{
